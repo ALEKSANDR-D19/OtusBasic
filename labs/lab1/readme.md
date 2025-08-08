@@ -17,3 +17,5 @@
 
   *         Протестируйте возможности удаленного управления с помощью Telnet.
 
+
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Снимок.PNG)
