@@ -29,7 +29,7 @@
 
 # Установлено консольное подключение к коммутатору с компьютера PC-A:
 
-
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/2.PNG)
       
 
 
