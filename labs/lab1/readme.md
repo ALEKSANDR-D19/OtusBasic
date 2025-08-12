@@ -47,6 +47,13 @@ show running-config
 
 
 show version
+  * Версия Cisco IOS - 15.0(2)SE4
+  * Файл образа системы C2960-LANBASEK9-M
+
+
+
+
+
 
       
 
