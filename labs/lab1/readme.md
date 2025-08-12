@@ -99,6 +99,10 @@ banner motd #!!!!STOP!!!!!#
 
 ![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/7.PNG)
 
+  * Подключение по TelNet
+
+
+
 
 
 
