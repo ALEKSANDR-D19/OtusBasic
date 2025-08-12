@@ -73,6 +73,11 @@ enable secret class
 
 banner motd #!!!!STOP!!!!!#
 
+<img width="620" height="998" alt="image" src="https://github.com/user-attachments/assets/21676082-ac9b-4fa6-a1f5-a850896ef11e" />
+
+Команда login необходима для включения пароля в работу.
+
+
 
 
 
