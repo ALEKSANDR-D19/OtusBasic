@@ -97,6 +97,8 @@ banner motd #!!!!STOP!!!!!#
 
 # Проверка сетевых подключений
 
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/7.PNG)
+
 
 
 
