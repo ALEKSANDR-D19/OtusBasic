@@ -93,6 +93,15 @@ banner motd #!!!!STOP!!!!!#
 
 # Настройка IP-адрес на компьютере PC-A
 
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/6.PNG)
+
+# Проверка сетевых подключений
+
+
+
+
+
+
 
 
 
