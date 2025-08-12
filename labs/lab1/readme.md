@@ -77,7 +77,21 @@ banner motd #!!!!STOP!!!!!#
 
 Команда login необходима для включения пароля в работу.
 
+# Настройка каналов виртуального соединения для удаленного управления (vty).
 
+   configure 
+   
+   configure terminal
+   
+   line vty 0 4
+   
+   password cisco
+   
+   login
+   
+   end
+
+# Настройка IP-адрес на компьютере PC-A
 
 
 
