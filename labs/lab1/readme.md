@@ -38,7 +38,9 @@ enable
 
 show running-config
 
-
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/3.PNG)
+  * Коммутатор 2960 исеет 24 интерфейса FastEthernet и 2 интерфейса Gigabit Ethernet
+  * Диапазон VTY линий - 0 15
       
 
 
