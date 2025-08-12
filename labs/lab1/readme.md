@@ -23,7 +23,7 @@
 # Выполнение:
       Часть 1. Создать сеть согласно топологии.
 
-![alt-текст]
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/1.PNG)
 
 
 
