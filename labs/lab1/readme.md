@@ -103,6 +103,10 @@ banner motd #!!!!STOP!!!!!#
 
 ![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab1Telnet.PNG)
 
+# Ответы на вопросы:
+  * Пароль VTY для коммутатора необходимо настроить для удалённого доступа
+  * Чтобы пароли не отправлялись в незашифрованном виде необходимо выполнить команду service password-encryption
+
 
 
 
