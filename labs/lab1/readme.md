@@ -50,6 +50,12 @@ show version
   * Версия Cisco IOS - 15.0(2)SE4
   * Файл образа системы C2960-LANBASEK9-M
 
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/4.PNG)
+
+  * Интерфейс F0/6 включен
+  * mac адреса нет
+  * Full-duplex, 100Mb/s
+
 
 
 
