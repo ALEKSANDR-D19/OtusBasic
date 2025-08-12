@@ -41,6 +41,13 @@ show running-config
 ![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/3.PNG)
   * Коммутатор 2960 исеет 24 интерфейса FastEthernet и 2 интерфейса Gigabit Ethernet
   * Диапазон VTY линий - 0 15
+  * При вводе команды show startup configuration появляется сообщение startup-config is not present, потому что файл ещё не создан.
+  * Ip адрес сети Vlan1 не назначен, интерфейс выключен.
+  * При подключении кабеля Ethernet компьютера к порту 6 коммутатора появляется сообщение %LINK-5-CHANGED: Interface FastEthernet0/6, changed state to up
+
+
+show version
+
       
 
 
