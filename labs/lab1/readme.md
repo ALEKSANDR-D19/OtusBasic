@@ -56,6 +56,23 @@ show version
   * mac адреса нет
   * Full-duplex, 100Mb/s
 
+show flash
+
+  * Образу Cisco IOS присвоено имя 2960-lanbasek9-mz.150-2.SE4.bin
+
+    Часть 2. Настройка базовых параметров сетевых устройств
+
+
+no ip domain-lookup
+
+hostname S1
+
+service password-encryption
+
+enable secret class
+
+banner motd #!!!!STOP!!!!!#
+
 
 
 
