@@ -101,6 +101,8 @@ banner motd #!!!!STOP!!!!!#
 
   * Подключение по TelNet
 
+![alt-текст](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab1Telnet.PNG)
+
 
 
 
