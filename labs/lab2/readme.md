@@ -49,6 +49,9 @@ copy running-config startup-config
 Настраиваем пк и подключаем кабели как указано в топологии
 
 ![alt](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2PC-A.PNG)
-![alt](
+
+![alt](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lb2PC-B.PNG)
+
+
 
 
