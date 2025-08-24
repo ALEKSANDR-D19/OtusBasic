@@ -68,6 +68,10 @@ MAC-адрес компьютера PC-A:0010.1174.D970
 
 MAC-адрес компьютера PC-B: 000A.F357.7758
 
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-8.PNG)
+
+![alt text](
+
 00e0.8f0d.4b01
 
 0060.3e35.c101
