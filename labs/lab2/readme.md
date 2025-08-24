@@ -122,6 +122,8 @@ S2# clear mac address-table dynamic
 
 # С компьютера PC-B отправьте эхо-запросы устройствам в сети и просмотрите таблицу МАС-адресов коммутатора.
 
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-12.PNG)
+
 
 
 На компьютере PC-B откройте командную строку и еще раз введите команду arp -a.
