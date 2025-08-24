@@ -110,6 +110,9 @@ S2# clear mac address-table dynamic
      
    * Через 10 секунд введите команду show mac address-table и нажмите клавишу ввода. Появились ли в таблице МАС-адресов новые адреса?
 
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-10.PNG)
+
+
 
 
 
