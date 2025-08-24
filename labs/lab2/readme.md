@@ -44,6 +44,6 @@ copy running-config startup-config
 
 По аналогии настраиваем второй коммутатор
 
-
+https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2S1.PNG   
 
 
