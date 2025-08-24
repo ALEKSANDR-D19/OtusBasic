@@ -107,10 +107,18 @@ S2# clear mac address-table dynamic
  
 Вопросы:
    * Указаны ли в таблице МАС-адресов адреса для VLAN 1? Указаны ли другие МАС-адреса?
-     
-   * Через 10 секунд введите команду show mac address-table и нажмите клавишу ввода. Появились ли в таблице МАС-адресов новые адреса?
 
 ![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-10.PNG)
+
+После выполнения команды clear mac address-table dynamic таблица Mac адресов полностью очищена
+
+  * Через 10 секунд введите команду show mac address-table и нажмите клавишу ввода. Появились ли в таблице МАС-адресов новые адреса?
+
+
+
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-11.PNG)
+
+Через 10 секунд при вводе команды show mac address-table появляется Mac адрес S1
 
 
 
