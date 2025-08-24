@@ -70,11 +70,11 @@ MAC-адрес компьютера PC-B: 000A.F357.7758
 
 ![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-8.PNG)
 
-![alt text](
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-9.PNG)
 
-00e0.8f0d.4b01
+MAC-адрес коммутатора S1: 00e0.8f0d.4b01
 
-0060.3e35.c101
+MAC-адрес коммутатора S2: 0060.3e35.c101
 
 
 
