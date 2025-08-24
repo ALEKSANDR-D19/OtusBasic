@@ -11,6 +11,9 @@
 
 <img width="1357" height="573" alt="image" src="https://github.com/user-attachments/assets/5ed74e0c-0f20-4a8a-b70b-80c569e96756" />
 
+enable
+
+configure
 
 no ip domain-lookup
 
@@ -19,6 +22,28 @@ hostname S1
 service password-encryption
 
 enable secret class
+
+end
+
+interface vlan 1
+
+ip address 192.168.1.11 255.255.255.0
+
+no shutdown
+
+end
+
+line vty 0 4
+
+password cisco
+
+login
+
+exit
+
+copy running-config startup-config 
+
+По аналогии настраиваем второй коммутатор
 
 
 
