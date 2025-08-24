@@ -23,7 +23,6 @@ service password-encryption
 
 enable secret class
 
-end
 
 interface vlan 1
 
@@ -31,7 +30,7 @@ ip address 192.168.1.11 255.255.255.0
 
 no shutdown
 
-end
+exit
 
 line vty 0 4
 
@@ -39,7 +38,7 @@ password cisco
 
 login
 
-exit
+end
 
 copy running-config startup-config 
 
