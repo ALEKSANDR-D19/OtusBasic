@@ -56,10 +56,18 @@ copy running-config startup-config
 
 
    * # Часть 2. Часть 2. Изучение таблицы МАС-адресов коммутатора
+   
 
-0010.1174.D970      000A.F357.7758    
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-4.PNG)
 
-https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-4.PNG
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-5.PNG)
+
+Назовите физические адреса адаптера Ethernet.
+
+MAC-адрес компьютера PC-A:0010.1174.D970
+
+MAC-адрес компьютера PC-B: 000A.F357.7758
+
 
 
 
