@@ -1,4 +1,13 @@
 # Просмотр таблицы MAC-адресов коммутатора
 
-https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab2-1.PNG
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab2-1.PNG)
+
+# Цели
+   * Часть 1. Создание и настройка сети
+   * Часть 2. Изучение таблицы МАС-адресов коммутатора
+
+# Выполнение
+   * # Часть 1. Создание и настройка сети
+
+
 
