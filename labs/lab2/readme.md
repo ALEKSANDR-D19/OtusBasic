@@ -124,21 +124,30 @@ S2# clear mac address-table dynamic
 
 ![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-12.PNG)
 
+Видим что от всех устройств у нас есть ответ
+
 
 
 На компьютере PC-B откройте командную строку и еще раз введите команду arp -a.
-Откройте командную строку.
-Вопрос:
+
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-14.PNG)
+
+
 Не считая адресов многоадресной и широковещательной рассылки, сколько пар IP- и МАС-адресов устройств было получено через протокол ARP?
 
+Мы получили 3 пары IP И MAC адресов через протокол ARP
+
+# 	Подключившись через консоль к коммутатору S2, введите команду show mac address-table. 
+
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-13.PNG)
+
+# Добавил ли коммутатор в таблицу МАС-адресов дополнительные МАС-адреса? Если да, то какие адреса и устройства?
+
+Да добавил MACадрес 000b.be6b.b7da, это адрес
 
 
 
 
-000a.f357.7758    DYNAMIC     Fa0/18
-   1    000b.be6b.b7da    DYNAMIC     Fa0/1
-   1    0010.1174.d970    DYNAMIC     Fa0/1
-   1    00e0.8f0d.4b01    DYNAMIC     Fa0/1
 
 
 
