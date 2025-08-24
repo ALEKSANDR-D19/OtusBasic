@@ -146,6 +146,13 @@ S2# clear mac address-table dynamic
 Да добавил MACадрес 000b.be6b.b7da
 
 
+# На компьютере PC-B откройте командную строку и еще раз введите команду arp -a. 
+
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-15.PNG)
+
+Появились ли в ARP-кэше компьютера PC-B дополнительные записи для всех сетевых устройств, которым были отправлены эхо-запросы?
+
+
 
 
 
