@@ -70,6 +70,8 @@ MAC-адрес компьютера PC-B: 000A.F357.7758
 
 00e0.8f0d.4b01
 
+0060.3e35.c101
+
 
 
 
@@ -80,13 +82,13 @@ MAC-адрес компьютера PC-B: 000A.F357.7758
 ![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-6.PNG)
 
 
-MAC-адрес 00e0.8f0d.4b01 принадлежит коммутатору S2
+MAC-адрес 00e0.8f0d.4b01 принадлежит коммутатору S1
 
    * После тестирования сетевой связи с помощью эхо-запросов:
 
 ![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-7.PNG)
 
-Мы видим MAС-адреса PC-A, PC-B, и S2
+Мы видим MAС-адреса PC-A, PC-B, и S1
 
 
 
