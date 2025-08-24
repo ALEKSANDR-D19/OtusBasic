@@ -78,11 +78,13 @@ MAC-адрес компьютера PC-B: 000A.F357.7758
 
 MAC-адрес 00e0.8f0d.4b01 принадлежит коммутатору S2
 
+   * После тестирования сетевой связи с помощью эхо-запросов:
+
+![alt text](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-7.PNG)
+
+Мы видим MAС-адреса PC-A, PC-B, и S2
 
 
-1    000a.f357.7758    DYNAMIC     Fa0/18
-   1    0010.1174.d970    DYNAMIC     Fa0/1
-   1    00e0.8f0d.4b01    DYNAMIC     Fa0/1
 
 
 
