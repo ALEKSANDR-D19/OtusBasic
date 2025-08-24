@@ -52,6 +52,8 @@ copy running-config startup-config
 
 ![alt](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lb2PC-B.PNG)
 
+![alt](
+
 
 
 
