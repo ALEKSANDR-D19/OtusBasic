@@ -57,7 +57,11 @@ copy running-config startup-config
 
    * # Часть 2. Часть 2. Изучение таблицы МАС-адресов коммутатора
 
-0010.1174.D970      000A.F357.7758     
+0010.1174.D970      000A.F357.7758    
+
+https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/Lab2-4.PNG
+
+
 
 
 
