@@ -28,7 +28,13 @@
    
 
     ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/4.PNG)
-      
+
+
+Какие группы многоадресной рассылки назначены интерфейсу G0/0?
+
+show ipv6 interface g 0/0/0
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/5.PNG)
         
     
    
