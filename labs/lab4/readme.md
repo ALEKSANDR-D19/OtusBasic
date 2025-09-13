@@ -71,7 +71,7 @@ show ipv6 interface vlan1
 
 PC-A:
 
-![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/7.PNG)
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/7.PNG?raw=true)
 
 PC-B:
 
