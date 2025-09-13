@@ -15,7 +15,12 @@
     * Шаг 1. Базовые настройки маршрутизатора
 
 
-    ![](https://github.com/ALEKSANDR-D19/OtusBasic/commit/a58edffc19f76697e23b7edb5e348656fe1d32f0)
+    ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/2.PNG)
+
+
+      * Шаг 2. Базовае настройки коммутатора
+
+        
     
    
 
