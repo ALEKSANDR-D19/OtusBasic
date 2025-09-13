@@ -25,6 +25,9 @@
   * Часть 2. Часть 2. Ручная настройка IPv6-адресов
 
     * Шаг 1. Шаг 1. Назначение IPv6-адреса интерфейсам Ethernet на R1.
+   
+
+    ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/4.PNG)
       
         
     
