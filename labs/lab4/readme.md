@@ -78,6 +78,13 @@ PC-B:
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/8.PNG)
 
 
+# Часть 3. Проверка сквозного подключения
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/9.PNG)
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/10.PNG)
+
+
 
 
 
