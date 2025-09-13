@@ -24,7 +24,7 @@
 
   * Часть 2. Ручная настройка IPv6-адресов
 
-    * Шаг 1. Шаг 1. Назначение IPv6-адреса интерфейсам Ethernet на R1.
+    * Шаг 1.  Назначение IPv6-адреса интерфейсам Ethernet на R1.
     
     
    
@@ -38,7 +38,7 @@ show ipv6 interface g 0/0/0
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/5.PNG)
  
-  *  Шаг 2. Шаг 2. Активировать IPv6-маршрутизацию на R1.
+  *  Шаг 2.  Активировать IPv6-маршрутизацию на R1.
     
     До выполнения команды ipv6 unicast-routing на интерфейсе 0/0/0 R1  PC-B не получал ipv6
 
@@ -65,6 +65,19 @@ show ipv6 interface vlan1
 
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/6.PNG)
+
+
+  * Шаг 4. Назначить компьютерам статические IPv6-адреса.
+
+PC-A:
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/7.PNG)
+
+PC-B:
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/8.PNG)
+
+
 
 
 
