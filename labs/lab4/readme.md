@@ -20,7 +20,7 @@
 
       * Шаг 2. Базовае настройки коммутатора
    
-![]()
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/3.PNG)
 
         
     
