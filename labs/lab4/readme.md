@@ -71,11 +71,11 @@ show ipv6 interface vlan1
 
 PC-A:
 
-![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/7.PNG?raw=true)
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/100.PNG)
 
 PC-B:
 
-![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/8.PNG)
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/101.PNG)
 
 
 # Часть 3. Проверка сквозного подключения
@@ -83,6 +83,24 @@ PC-B:
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/9.PNG)
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/10.PNG)
+
+
+# Вопросы для повторения
+1.	Почему обоим интерфейсам Ethernet на R1 можно назначить один и тот же локальный адрес канала — FE80::1?
+2.	Какой идентификатор подсети в индивидуальном IPv6-адресе 2001:db8:acad::aaaa:1234/64?
+
+
+# Ответы:
+
+1. Потому что каждый интерфейс R1 это отдельная сеть.
+
+2. 2001:db8:acad::aaaa:1234 = 2001:db8:acad:0000:0000:0000:aaaa:1234, индетефикатор подсети 0000
+   
+
+
+
+
+
 
 
 
