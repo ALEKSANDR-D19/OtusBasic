@@ -22,9 +22,11 @@
    
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/3.PNG)
 
-  * Часть 2. Часть 2. Ручная настройка IPv6-адресов
+  * Часть 2. Ручная настройка IPv6-адресов
 
     * Шаг 1. Шаг 1. Назначение IPv6-адреса интерфейсам Ethernet на R1.
+    
+    
    
 
     ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/4.PNG)
@@ -35,6 +37,18 @@
 show ipv6 interface g 0/0/0
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/5.PNG)
+ 
+  *  Шаг 2. Шаг 2. Активировать IPv6-маршрутизацию на R1.
+    
+    До выполнения команды ipv6 unicast-routing на интерфейсе 0/0/0 R1  PC-B не получал ipv6
+
+    После выполнения команды PC-B получил ipv6 2001:DB8:ACAD:A:201:C7FF:FE99:DD0C
+
+    Почему PC-B получил глобальный префикс маршрутизации и идентификатор подсети, которые вы настроили на R1?
+
+    Потому что R1 выдаёт префикс сети, PC-B при помощи технологии SLACC генирирует оставшиеся 64 бита.
+
+    
         
     
    
