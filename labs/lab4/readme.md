@@ -48,6 +48,28 @@ show ipv6 interface g 0/0/0
 
     Потому что R1 выдаёт префикс сети, PC-B при помощи технологии SLACC генирирует оставшиеся 64 бита.
 
+  
+  * Шаг 3. Назначить IPv6-адреса интерфейсу управления (SVI) на S1
+
+configure terminal
+
+sdm prefer dual-ipv4-and-ipv6 default
+
+end
+
+wr mem
+
+reload
+
+show ipv6 interface vlan1
+
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/labs/lab4/jpeg/6.PNG)
+
+
+
+      
+
     
         
     
