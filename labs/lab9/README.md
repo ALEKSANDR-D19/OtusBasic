@@ -37,7 +37,7 @@ line con 0
  logging synchronous
  exec-timeout 0 0
 ```
-СPT не поддерживает команду ip dhcp relay information trusted, поэтому меняем её на воманду dhcp relay information trust-all в режиме глобальной конфигурации.
+СPT не поддерживает команду ip dhcp relay information trusted, поэтому меняем её на команду ip dhcp relay information trust-all в режиме глобальной конфигурации.
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab9-2.PNG)
 
