@@ -373,6 +373,68 @@ wr
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab11-12.PNG)
 
 
+Для того чтобы проверить HTTPS добавим в нашу схему два сервера с адресами 10.20.0.10 и 172.16.1.10
+
+172.16.1.1 это Loopback1 R1
+
+R1
+
+```
+
+int loopback 1
+
+no ip add
+
+exit
+
+no int loopback 1
+
+int g0/0/0
+
+ip add 172.16.1.2 255.255.255.0
+
+no shut
+
+end
+
+wr
+
+```
+
+На сервере 172.16.1.1 устанавливаем шлюз по умолчанию 172.16.1.2
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab11-13.PNG)
+
+
+Сервер 10.20.0.10 подключаем к S2 g0/1 
+
+S2
+
+```
+
+int g0/1
+
+no shut
+
+swi mode access
+
+swi access vlan 20
+
+end
+
+wr
+
+```
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/lab11-14.PNG)
+
+Политики безопасности выполняются.
+
+
+
+
+
+
 
 
 
