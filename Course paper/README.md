@@ -80,8 +80,8 @@ enable secret SuperEnable123
 service password-encryption
 
 ip domain-name isp.net
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 
 crypto key generate rsa 
 2048
@@ -99,7 +99,7 @@ interface GigabitEthernet0/1
 ip access-list standard MGMT-SSH
  permit 203.0.113.2
 
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -124,8 +124,8 @@ service password-encryption
 enable secret SuperEnable123
 
 ip domain-name isp.local
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 
 crypto key generate rsa
 2048 
@@ -168,7 +168,7 @@ clock timezone MSK 3
 ip access-list standard MGMT-SSH
  permit 192.168.99.0 0.0.0.255
 !
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -196,8 +196,8 @@ service password-encryption
 enable secret SuperEnable123
 
 ip domain-name isp.local
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 crypto key generate rsa modulus 1024
 ip ssh version 2
 
@@ -320,7 +320,7 @@ ip access-list standard MGMT-SSH
  permit 192.168.99.0 0.0.0.255
 
 
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -348,8 +348,8 @@ service password-encryption
 enable secret SuperEnable123
 
 ip domain-name isp.local
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 crypto key generate rsa 
 2048
 ip ssh version 2
@@ -470,7 +470,7 @@ clock timezone MSK 3
 ip access-list standard MGMT-SSH
  permit 192.168.99.0 0.0.0.255
 
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -496,8 +496,8 @@ service password-encryption
 enable secret SuperEnable123
 
 ip domain-name isp.local
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 crypto key generate rsa modulus 1024
 ip ssh version 2
 
@@ -590,7 +590,7 @@ clock timezone MSK 3
 ip access-list standard MGMT-SSH
  permit 192.168.99.0 0.0.0.255
 
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -615,8 +615,8 @@ service password-encryption
 enable secret SuperEnable123
 
 ip domain-name isp.local
-username superadmin privilege 15 secret SuperP@ss123
-username admin privilege 1 secret AdminP@ss123
+username superadmin privilege 15 secret Super
+username admin privilege 1 secret Admin
 crypto key generate rsa 
 2048	
 ip ssh version 2
@@ -683,7 +683,7 @@ clock timezone MSK 3
 ip access-list standard MGMT-SSH
  permit 192.168.99.0 0.0.0.255
 
-line vty 0 4
+line vty 0 15
  transport input ssh
  login local
  exec-timeout 10 0
@@ -705,6 +705,7 @@ DHCP on
 
 POOL_VLAN10: Network 192.168.10.0/24, Default Gateway 192.168.10.1, DNS 192.168.30.10, Start IP 192.168.10.100, Max Users 100
 POOL_VLAN20: Network 192.168.20.0/24, Default Gateway 192.168.20.1, DNS 192.168.30.10, Start IP 192.168.20.100, Max Users 100
+POOL_VLAN99: Network 192.168.99.0/24, Default Gateway 192.168.99.1, DNS 192.168.30.10 Start IP 192.168.99.100,  Max Users 50
 
 DNS on
 
