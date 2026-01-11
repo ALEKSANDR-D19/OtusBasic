@@ -746,6 +746,16 @@ HTTP on
 
 ![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/kurs/Тест%20NTP.PNG)
 
+  * Тест SSH
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/kurs/Тест%20SSh.PNG)
+
+  * Тест ACL
+
+![](https://github.com/ALEKSANDR-D19/OtusBasic/blob/main/Jpeg/kurs/Тест%20ACL.PNG)
+
+192.168.99.11 - ASW1
+192.168.20.7 - абонентский пк из vlan 20
 # Заключение
 
 В ходе выполнения курсовой работы разработана модель сети интернет-провайдера в CPT, включающая сегментацию по VLAN, отказоустойчивые соединения и шлюз по умолчанию, централизованную выдачу IP по DHCP, синхронизацию времени по NTP, защиту доступа ACL, удаленное администрирование по SSH и выход в интернет через NAT.
