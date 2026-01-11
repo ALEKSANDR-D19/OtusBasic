@@ -704,7 +704,9 @@ Default Gateway: 192.168.30.1
 DHCP on
 
 POOL_VLAN10: Network 192.168.10.0/24, Default Gateway 192.168.10.1, DNS 192.168.30.10, Start IP 192.168.10.100, Max Users 100
+
 POOL_VLAN20: Network 192.168.20.0/24, Default Gateway 192.168.20.1, DNS 192.168.30.10, Start IP 192.168.20.100, Max Users 100
+
 POOL_VLAN99: Network 192.168.99.0/24, Default Gateway 192.168.99.1, DNS 192.168.30.10 Start IP 192.168.99.100,  Max Users 50
 
 DNS on
